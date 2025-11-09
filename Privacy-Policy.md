@@ -4,7 +4,7 @@
 By using the app, you accept these conditions.
 
 **Information We Collect**
-We may request information such as your name or email address. We also use third-party services that may collect data.
+We may request information such as your name or email address. We may also use third-party services that may collect data.
 
 **Cookies**
 The app may use "cookies" and third-party libraries to collect information and improve services.
