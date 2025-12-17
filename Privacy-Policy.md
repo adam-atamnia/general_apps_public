@@ -1,7 +1,7 @@
 **Privacy Policy**
 
 **Introduction**
-By using the app, you accept these conditions.
+By using the app, you accept these conditions. They may or may not be applicable to you.
 
 **Information We Collect**
 We may request information such as your name or email address. We may also use third-party services that may collect data.
@@ -16,7 +16,7 @@ Some services may use location and device data to provide better service and pre
 We may use third parties to help operate the app or analyze its use. They may access your information only to fulfill these tasks.
 
 **Account Deletion**
-When you delete your account, your purchase history and activities may be retained anonymously.
+When you delete your account (if applicable), your purchase history and activities may be retained anonymously.
 
 **Security**
 We protect your information with commercially acceptable measures, but no method is 100% secure.
