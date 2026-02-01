@@ -7,7 +7,3 @@ The app and all related content remain my property. You are only getting a licen
 2. Updates
 
 I may provide updates, bug fixes, or new features. These are also covered under this license unless I say otherwise.
-
-3. Disclaimer
-
-The app is provided “as is” without warranties of any kind.
