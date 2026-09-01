@@ -22,7 +22,7 @@ When you delete your account (if applicable), your purchase history and activiti
 We protect your information with commercially acceptable measures, but no method is 100% secure.
 
 **Children**
-This app is not directed at children under 13 years of age and we do not intentionally collect information from them.
+This app is not directed at children under 13 years of age.
 
 **Changes to the Policy**
 We may update this policy and changes will be effective upon publication in the app.
