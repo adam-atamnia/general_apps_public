@@ -7,19 +7,16 @@ By using the app, you accept these conditions. They may or may not be applicable
 We may request information such as your name or email address. We may also use third-party services that may collect data.
 
 **Cookies**
-The app may use "cookies" and third-party libraries to collect information and improve services.
+The app may use "cookies" and third-party libraries.
 
 **Location and Device**
-Some services may use location and device data to provide better service and prevent fraud.
+Some services may use location and device data.
 
 **Service Providers**
-We may use third parties to help operate the app or analyze its use. They may access your information only to fulfill these tasks.
+We may use third parties to help operate the app or analyze its use.
 
 **Account Deletion**
-When you delete your account (if applicable), your purchase history and activities may be retained anonymously.
-
-**Security**
-We protect your information with commercially acceptable measures, but no method is 100% secure.
+When you delete your account (if applicable), your purchase history and activities may be retained.
 
 **Children**
 This app is not directed at children under 13 years of age.
