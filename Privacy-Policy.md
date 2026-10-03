@@ -15,6 +15,9 @@ Some services may use location and device data.
 **Service Providers**
 We may use third parties to help operate the app or analyze its use.
 
+**App Diagnostics**
+Specifically for the app **Incremental Push Up:** (may not apply for other apps) the app uses Google ML Kit for on-device processing. Google automatically collects ML Kit metrics data.
+
 **Account Deletion**
 When you delete your account (if applicable), your purchase history and activities may be retained.
 
