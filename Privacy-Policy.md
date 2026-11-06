@@ -25,7 +25,7 @@ When you delete your account (if applicable), your purchase history and activiti
 This app is not directed at children under 13 years of age.
 
 **Changes to the Policy**
-We may update this policy and changes will be effective upon publication in the app.
+We may update this policy and changes will be effective upon publication.
 
 **Contact Us**
 For questions or suggestions: Email: feedback.adam.atamnia@gmail.com
